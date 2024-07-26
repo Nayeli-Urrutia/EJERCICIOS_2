@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc1ee5ac-8c70-4fd2-92e6-e1950e33ef56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="cc1ee5ac-8c70-4fd2-92e6-e1950e33ef56" name="Changes" comment="se agregaron 4 ejercicios mas">
       <change beforePath="$PROJECT_DIR$/src/main/java/umg/Progra2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/Progra2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/Progra2/grupo1/ejercicios1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/Progra2/grupo1/ejercicios1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/Progra2/grupo2/ejerccio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/Progra2/grupo2/ejerccio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/umg/Progra2/grupo3/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/Progra2/grupo3/ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +75,24 @@
       <option name="presentableId" value="Default" />
       <updated>1721492630358</updated>
       <workItem from="1721492631451" duration="2263000" />
-      <workItem from="1721876145205" duration="5076000" />
+      <workItem from="1721876145205" duration="5352000" />
     </task>
+    <task id="LOCAL-00001" summary="se agregaron 4 ejercicios mas">
+      <option name="closed" value="true" />
+      <created>1721881420203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721881420203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="se agregaron 4 ejercicios mas" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agregaron 4 ejercicios mas" />
   </component>
 </project>
